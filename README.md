@@ -11,7 +11,6 @@
 <img align="center" alt="GIF" src="https://user-images.githubusercontent.com/58686170/118539567-c2ad5f80-b779-11eb-9922-3ca67e88b02c.gif" width="500px"/>
 
 📈 My GitHub Stats
-<p align="right"> <img src="https://user-images.githubusercontent.com/58686170/118539567-c2ad5f80-b779-11eb-9922-3ca67e88b02c.gif" alt="isa96" width="320" height="320"/>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=isa96&show_icons=true&theme=gotham" alt="isa96" />
 
 
