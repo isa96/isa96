@@ -2,7 +2,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Izzan 🧑🏻
 
 <p align="justify">
-  I am a bachelor of electrical engineering and I have passionate about Big Data, Artificial Intelligence, Machine Learning, Internet Of Things, Robotics and Natural Language Processing. I have been in scholarship programs that focus on the field of Data Engineering.
+  I am a bachelor of electrical engineering and I have passionate about Big Data, Artificial Intelligence, Machine Learning, Internet Of Things, Robotics and Natural Language Processing. 
 </p>
 
 ![Visitor Count](https://profile-counter.glitch.me/{isa96}/count.svg)
