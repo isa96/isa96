@@ -8,7 +8,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{isa96}/count.svg)
 
 
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/58686170/118539567-c2ad5f80-b779-11eb-9922-3ca67e88b02c.gif" width="520px"/>
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/58686170/118539567-c2ad5f80-b779-11eb-9922-3ca67e88b02c.gif" width="500px"/>
 
 📈 My GitHub Stats
 
