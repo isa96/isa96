@@ -7,8 +7,7 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{isa96}/count.svg)
 
-![](https://raw.githubusercontent.com/isa96/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/isa96/github-stats-transparent/output/generated/languages.svg)
+
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
 
