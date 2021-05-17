@@ -1,4 +1,3 @@
-<img align='right' src = "https://github.com/isa96/github-stats-transparent/blob/output/generated/overview.svg">
 
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Izzan 🧑🏻
 
@@ -7,10 +6,6 @@
 </p>
 
 ![Visitor Count](https://profile-counter.glitch.me/{isa96}/count.svg)
-
-<img align='left' src = "https://github.com/isa96/github-stats-transparent/blob/output/generated/languages.svg">
-
-
 
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
