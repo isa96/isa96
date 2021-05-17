@@ -11,7 +11,7 @@
 📈 My GitHub Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=isa96&show_icons=true&theme=gotham" alt="isa96" />
-
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/58686170/118539567-c2ad5f80-b779-11eb-9922-3ca67e88b02c.gif" width="360px"/>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
 
