@@ -7,7 +7,9 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/{isa96}/count.svg)
 
+📈 My GitHub Stats
 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=isa96&show_icons=true&theme=gotham" alt="isa96" />
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" height="18px"> You Can Reach Me at 
 
