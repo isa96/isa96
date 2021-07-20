@@ -42,6 +42,5 @@
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="devicon" height="50" width="50" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="devicon" height="50" width="50" />
 		
 </p>
