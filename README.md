@@ -39,7 +39,7 @@
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="devicon" height="50" width="50" />
-		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" height="80" width="80" />
+		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="devicon" height="50" width="50" />
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="devicon" height="50" width="50" />
 	
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-line-wordmark.svg" alt="devicon" height="50" width="50" />
