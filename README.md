@@ -2,7 +2,7 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Izzan 🧑🏻
 
 <p align="justify">
-- 🔭 I’m currently working on Dates Code as Freelancer
+- 🔭 I’m currently working on Dates Code as Freelancer and Nanosense Instrument Indonesia as Artificial Engineer 
 - 🌱 I’m currently learning Big Data
 
 </p>
