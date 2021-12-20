@@ -3,7 +3,7 @@
 
 <p align="justify">
 - 🔭 I’m currently working on Dates Code as Freelancer and Nanosense Instrument Indonesia as Artificial Engineer 
-- 🌱 I’m currently learning Big Data
+
 
 </p>
 
