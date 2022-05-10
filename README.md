@@ -26,6 +26,7 @@
 
 ## Treat Me
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/izzan)
+[](https://saweria.co/overlays/qr?streamKey=90252e634c2d619aceb6484cdb4d2965&backgroundColor=%23faae2b&barcodeColor=%23000&username=isa96)
 
 <h3 align="left">Technologies I am familiar with:</h3>
 <p align="center">
