@@ -24,6 +24,9 @@
   
 </p>
 
+## Treat Me
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/izzan)
+
 <h3 align="left">Technologies I am familiar with:</h3>
 <p align="center">
 		<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original-wordmark.svg" alt="devicon" height="50" width="50" />
