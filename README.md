@@ -26,7 +26,7 @@
 
 ## Treat Me
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/izzan)
-[!["Saweria"](https://saweria.co/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fcapy_happy.603c7293.svg&w=640&q=75)](https://saweria.co/isa96)
+[!["Saweria"](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://saweria.co/isa96)
 
 <h3 align="left">Technologies I am familiar with:</h3>
 <p align="center">
