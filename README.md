@@ -1,5 +1,5 @@
 
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"> I'm Izzan 🧑🏻
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px"> I'm Izzan 🧑🏻
 
 <p align="justify">
 - 🔭 I’m currently working on Dates Code as Freelancer and Nanosense Instrument Indonesia as Artificial Engineer 
@@ -10,7 +10,7 @@
 ![Visitor Count](https://profile-counter.glitch.me/{isa96}/count.svg)
 
 
-<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/58686170/118539567-c2ad5f80-b779-11eb-9922-3ca67e88b02c.gif" width="320px"/>
+<img align="center" alt="GIF" src="https://user-images.githubusercontent.com/58686170/118539567-c2ad5f80-b779-11eb-9922-3ca67e88b02c.gif" width="120px"/>
 
 📈 My GitHub Stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=isa96&show_icons=true&theme=gotham" alt="isa96" />
