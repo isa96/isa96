@@ -7,7 +7,7 @@
 
 </p>
 
-![Visitor Count](https://profile-counter.glitch.me/{isa96}/count.svg)
+
 
 ## You Can Reach Me at 
 
