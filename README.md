@@ -8,16 +8,6 @@
 </p>
 
 
-
-## You Can Reach Me at 
-
-<p>
-  <a href="https://www.linkedin.com/in/izzan-silmi-aziz-294836142" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
-  <a href="https://www.facebook.com/izzansilmiaziz" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>  
-  <a href="https://www.instagram.com/izzan_silmi_aziz" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>   
-  
-</p>
-
 ## Treat Me
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/izzan)
 [!["Saweria"](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://saweria.co/isa96)
