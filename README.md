@@ -1,9 +1,6 @@
 
 # Hi there I'm Izzan 🧑🏻
 
-<p align="justify">
-- 🔭 I’m currently working on Dates Code as Freelancer 
-
 
 </p>
 
